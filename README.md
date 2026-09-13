@@ -109,6 +109,6 @@ The system exploits the linear relationship between motor torque and current (τ
 
 ## Author
 
-**Priyanku Buragoin**
+**Priyanku Buragohain**
 3rd Year Student, Department of Electronics and Communication Engineering (ECE)
 
